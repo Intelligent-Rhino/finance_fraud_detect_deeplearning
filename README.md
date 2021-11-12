@@ -1,5 +1,7 @@
 ### This project is my solution for the competition, Wells Fargo Campus Analytics Challenge. 
-You could find more details below: https://www.mindsumo.com/contests/campus-analytics-challenge-2021.
+We employed three different models, range from RandomForest, XGBoost to DeepFm( deep learning model) to solve the problem.  
+
+For the competition, You could find more  details  below: https://www.mindsumo.com/contests/campus-analytics-challenge-2021.
 
 ### Rationale of the algorithm
 
