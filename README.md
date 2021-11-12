@@ -1,36 +1,3 @@
-
-
-### project structure:
-
-`├── LICENSE`
-`├── Rationale\ of\ the\ algorithm.pdf`
-`├── data`
-`│   ├── Campus+Analytics+2021+Challenge+Rules-FINAL.docx`
-`│   ├── state_name.csv`
-`│   ├── testset-for-participants.xlsx`
-`│   └── trainset-281-29.xlsx`
-`├── data_processing`
-`│   └── processing.py`
-`├── deepctrmodels`
-`│   └── deepfm.py`
-`├── model_checkpoint`
-`│   ├── bst.pkl`
-`│   ├── deepfm.pt`
-`│   ├── max_min_scaler.pkl`
-`│   ├── randomforest.pkl`
-`│   ├── risk_map.pkl`
-`│   └── txt_value_idx_map.pkl`
-`├── notebook`
-`│   ├── 00\ EDA.ipynb`
-`│   ├── 02\ model-select-train.ipynb`
-`│   ├── 03\ model-predict.ipynb`
-`│   └── Untitled.ipynb`
-`├── pipline-flow-char.pdf`
-`├── requirements.txt`
-`└── solution.pdf`
-
-
-
 ### explain:
 
 1. the predict result will be saved at the root directory of the project, naming "predict_result.csv"
